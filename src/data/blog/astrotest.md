@@ -3,7 +3,7 @@ author: Enrico
 pubDatetime: 2025-08-23T15:22:00Z
 modDatetime: 2025-08-23T16:52:45.934Z
 title: Testing posts
-slug: testing-posts
+slug: testing-posts-01
 featured: true
 draft: false
 tags:
@@ -38,5 +38,3 @@ ok ok
 
 ok I stop
 
-# the End
-End
